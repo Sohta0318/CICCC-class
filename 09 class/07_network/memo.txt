@@ -1,0 +1,89 @@
+// network summary
+sending data
+receiving data
+address is important
+address need to be understand by machine
+address by IPv4, IPv6
+in IPv4, IP address is limited
+in IPv4, router, public IP, private IP, NAT for offer 
+more IP address, or use them more efficiently
+in IPv6, there's a lot of IP addresses.
+
+
+// network
+
+// LAN cable
+Local
+Area
+Network
+
+// cable
+receive 0, 1
+send 0, 1
+
+// Router
+one type of PC
+
+// Booster
+
+// how to send 0, 1
+radio, sample
+0 wide
+1 narrow
+
+// history
+
+// IPA = target
+Internet
+Protocol
+Addresses
+
+// IPv4
+Internet
+Protocol
+Version
+4
+
+// 1Byte. 1Byte. 1Byte. 1Byte.
+192.168.0.2
+11000000. 10101000. 00000000. 00000010
+
+// actual IPv4 address in machine world
+11000000. 10101000. 00000000. 00000010
+
+// sign, un-sign-number
+plus, minus
+- unsigned = plus
+- signed = minus
+
+// sign, unsigned sample
+7 = 0 / 111
+-3 = 1 / 011
+
+// 32bits
+4 billion addresses
+
+// NAT
+Network
+Address
+Translation
+( to make public IPv4 smalll )
+
+// ISP
+Internet 
+Service 
+Provider
+
+// IP address from router
+
+// private IP
+to avoid consuming public IP address
+router know the private IP address
+
+// public IP
+connected to Internet Service Provider
+
+// IPv6
+340 trillion base2 number
+340 trillion ip addresses
+
